@@ -1,0 +1,6 @@
+streamlit>=1.40
+groq>=0.30
+python-dotenv>=1.0
+plotly>=5.20
+numpy>=1.26
+pandas>=2.0

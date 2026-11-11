@@ -1,0 +1,19 @@
+{
+  "features": [
+    "consistency",
+    "verification",
+    "verbalized"
+  ],
+  "weights": [
+    4.779987846031232,
+    0.9984398414121141,
+    1.475623823322543
+  ],
+  "bias": -3.5621930238203783,
+  "meta": {
+    "trained_on": 60,
+    "generator": "qwen/qwen3.8-27b",
+    "judge": "openai/gpt-oss-120b",
+    "created": "2026-11-11T18:14:21"
+  }
+}
